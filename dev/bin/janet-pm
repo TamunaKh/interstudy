@@ -1,7 +1,7 @@
 #!/usr/bin/env janet
 (put root-env :original-syspath (os/realpath (dyn *syspath*))) # auto generated
-(put root-env :syspath "C:\\Users\\josef\\code\\interstudy\\dev") # auto generated
-(put root-env :install-time-syspath "C:\\Users\\josef\\code\\interstudy\\dev") # auto generated
+(put root-env :syspath "C:\\Users\\Tamo\\Desktop\\CZU\\III semester\\Client side\\exam\\study-block\\dev") # auto generated
+(put root-env :install-time-syspath "C:\\Users\\Tamo\\Desktop\\CZU\\III semester\\Client side\\exam\\study-block\\dev") # auto generated
 
 (import spork/argparse)
 (import spork/path)
